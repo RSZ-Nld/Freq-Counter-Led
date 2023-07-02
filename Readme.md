@@ -1,5 +1,5 @@
 Made a pcb for
-Frequency Counter 16F628A with Led MAX7219, hex file is from 
+Frequency Counter 16F628A with Led MAX7219, hex file is from www.electronics-lab.com
 ### Photos
 ### "Front"
 ![Photo 010]( https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Front.JPG)
