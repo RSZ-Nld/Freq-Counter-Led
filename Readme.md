@@ -1,4 +1,5 @@
-Frequency Couter 16F628A with Led MAX7219
+Made a pcb for
+Frequency Counter 16F628A with Led MAX7219, hex file is from 
 ### Photos
 ### "Front"
 ![Photo 010]( https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Front.JPG)
@@ -9,6 +10,9 @@ Frequency Couter 16F628A with Led MAX7219
 
 
 Gerbers:
+
 https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Gerbers.zip
 
 Hex file for the 16F628a
+
+https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/FreqC-MAX7219.rar
