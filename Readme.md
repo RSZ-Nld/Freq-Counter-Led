@@ -8,6 +8,8 @@ Frequency Counter 16F628A with Led MAX7219, hex file is from www.electronics-lab
 ### “Diagram”
 ![Photo 0](https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Diagram-Led.JPG)
 
+Buy Led display MAX7219:
+https://a.aliexpress.com/_EI6AJyL
 
 Gerbers:
 
