@@ -13,7 +13,7 @@ Works from 9kHz till 99MHz.
 ### “Diagram”
 ![Photo 0](https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Diagram-Led.JPG)
 
-Buy Led display MAX7219:
+Led display MAX7219:
 https://a.aliexpress.com/_EI6AJyL
 
 Gerbers:
