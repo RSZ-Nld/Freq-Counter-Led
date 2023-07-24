@@ -3,6 +3,9 @@ Frequency Counter 16F628A with Led MAX7219, hex file is from www.electronics-lab
 
 Works from 9kHz till 99MHz.
 ### Photos
+
+![Photo 011](https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Led-Freq-Counter.jpg)
+
 ### "Front"
 ![Photo 010]( https://github.com/RSZ-Nld/Freq-Counter-Led/blob/main/Front.JPG)
 ### “Back”
