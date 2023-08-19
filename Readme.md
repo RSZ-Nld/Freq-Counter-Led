@@ -17,7 +17,7 @@ Led display MAX7219:
 
 https://a.aliexpress.com/_EI6AJyL
 
-or my own 0.58 Inch display:
+or my own 0.56 Inch display:
 
 https://github.com/RSZ-Nld/0.56-Inch-Led-Display-8-Digits
 
